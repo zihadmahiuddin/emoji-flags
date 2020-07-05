@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "mocha": "2.2.5"
-  }
+  },
+  "types": "index.d.ts"
 }
