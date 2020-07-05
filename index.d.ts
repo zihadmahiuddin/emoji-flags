@@ -23,6 +23,6 @@ declare module "emoji-flags" {
   };
 
   const EmojiFlags: EmojiFlagsType;
-
+  export = EmojiFlags;
   export default EmojiFlags;
 }
